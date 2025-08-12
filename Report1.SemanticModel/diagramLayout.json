@@ -1,0 +1,113 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 59.755727593400728,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 779.04702879992715,
+            "y": 0
+          },
+          "nodeIndex": "Dim Customers",
+          "nodeLineageTag": "7b42be18-4505-4127-808a-4c7664bb7025",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1.4099090457723733
+          },
+          "nodeIndex": "Dim Product",
+          "nodeLineageTag": "189a5734-f24e-4153-a465-dd7f10bf3afc",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 776.01231046723819,
+            "y": 384.77483958485777
+          },
+          "nodeIndex": "Dim Promotion",
+          "nodeLineageTag": "15bae9f4-16b0-4263-a9cb-e60aae66cf31",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 378.94429471640103,
+            "y": 0
+          },
+          "nodeIndex": "Fact Table",
+          "nodeLineageTag": "d8788827-4708-43e6-84da-96f1264e4f74",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0.21042369394598381,
+            "y": 514.47627275046034
+          },
+          "nodeIndex": "Date Table 1",
+          "nodeLineageTag": "be364229-7fd6-4026-97d3-58fd763112ca",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 246.56275422038317
+          },
+          "nodeIndex": "Date Table 2",
+          "nodeLineageTag": "2a7d4444-6772-45aa-b33c-680ea3e41d1b",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1063.0470287999271,
+            "y": 281.23813637523017
+          },
+          "nodeIndex": "Measures Table",
+          "nodeLineageTag": "98bf9326-67d2-4df5-9348-e025223ab5d5",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 70.955543900969,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
