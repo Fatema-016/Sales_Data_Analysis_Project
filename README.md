@@ -48,10 +48,19 @@ To open and interact with the full report, you need to have Power BI Desktop ins
 * **Git & GitHub:** For version control and collaborative development.
 * **Excel:** As the primary data source format.
 
+## Screenshots
+
+![](https://github.com/Fatema-016/Sales_Data_Analysis_Project/blob/main/images/Screenshot%20(32).png)
+![](https://github.com/Fatema-016/Sales_Data_Analysis_Project/blob/main/images/Screenshot%20(33).png)
+![](https://github.com/Fatema-016/Sales_Data_Analysis_Project/blob/main/images/Screenshot%20(34).png)
+![](https://github.com/Fatema-016/Sales_Data_Analysis_Project/blob/main/images/Screenshot%20(35).png)
+![](https://github.com/Fatema-016/Sales_Data_Analysis_Project/blob/main/images/Screenshot%20(36).png)
+![](https://github.com/Fatema-016/Sales_Data_Analysis_Project/blob/main/images/Screenshot%20(37).png)
+
 ## Contact
 
 For any questions or feedback, please contact me at fatemahab.786@gmail.com or open an issue on this repository.
 
----
 
-*This README file was formulated to provide a clear and professional overview of the project for anyone visiting the repository.*
+
+
